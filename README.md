@@ -11,12 +11,12 @@
 - Interface simples e fácil de usar.
 
 <div align="center">
-  <a href="https://moniquecarvalho.github.io/gerador-de-citacoes/"><strong>Visualizar o projeto »</strong></a>
+  <a href="https://moniquecarvalho.github.io/qr-code/"><strong>Visualizar o projeto »</strong></a>
     <br />
     <br />
 </div>   
 
-## 💻 Video do Projeto 
+## 💻 Imagem do Projeto 
 ![qr code 2](https://github.com/Moniquecarvalho/qr-code/assets/96195106/9b5b3cfc-3a5e-4a92-bfde-1a52f688ac53)
 
 
